@@ -1,0 +1,11 @@
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/config/WebInitializer.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/security/MessageSecurityWebApplicationInitializer.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/UserServiceImpl.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/UserService.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/dto/GiftGuestDTO.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/controllers/GuestController.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/controllers/RsvpController.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/controllers/LogoutController.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/security/SecurityConfig.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/config/MvcConfig.java
+/Users/olda/wed/oldaklara/wedding/wedding-web/src/main/java/cz/mendelu/wedding/web/controllers/HomepageController.java

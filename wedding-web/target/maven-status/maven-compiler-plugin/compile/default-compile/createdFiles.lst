@@ -1,0 +1,9 @@
+cz/mendelu/wedding/web/UserService.class
+cz/mendelu/wedding/web/controllers/LogoutController.class
+cz/mendelu/wedding/web/UserServiceImpl.class
+cz/mendelu/wedding/web/config/MvcConfig.class
+cz/mendelu/wedding/web/controllers/HomepageController.class
+cz/mendelu/wedding/web/config/WebInitializer.class
+cz/mendelu/wedding/web/security/MessageSecurityWebApplicationInitializer.class
+cz/mendelu/wedding/web/security/SecurityConfig.class
+cz/mendelu/wedding/web/controllers/RsvpController.class

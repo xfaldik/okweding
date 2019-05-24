@@ -1,0 +1,8 @@
+applications:
+  - path: wedding-web/target/wedding-web-1.0-SNAPSHOT.war
+    name: klaraolda
+    environment_json: {}
+    memory: 1024M
+    instances: 1
+    disk_quota: 512M
+    services: [Db2-q2weding]
